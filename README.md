@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ## 🛠Tech Stack🛠
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/JAVA-1C9AD6?style=flat-square&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black">
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=black">
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=White">
 
 ## 🌿STATUS🌿
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Min-ji99&show_icons=true&theme=radical)
