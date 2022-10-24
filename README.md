@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=White">
 <img src="https://img.shields.io/badge/Visual Studio Code-183A61?style=flat-square&logo=Visual Studio Code&logoColor=White">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=White">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=GitHub&logoColor=6DB33F">
+<img src="https://img.shields.io/badge/PyCharm-6DB33F?style=flat-square&logo=GitHub&logoColor=White">
 ## 🌿STATUS🌿
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Min-ji99&show_icons=true&theme=radical)
             
